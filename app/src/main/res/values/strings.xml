@@ -2,4 +2,6 @@
     <string name="app_name">Indecision Decider</string>
     <string name="edit_message"> Enter a message</string>
     <string name="button_decide">Decide</string>
+    <string name="choice1">Choice 1</string>
+    <string name="choice2">Choice 2</string>
 </resources>

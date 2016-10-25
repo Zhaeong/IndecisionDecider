@@ -17,9 +17,7 @@ public class Randomizer extends AppCompatActivity {
         TextView textView = new TextView(this);
         textView.setTextSize(40);
         textView.setText(message);
-
         ViewGroup layout = (ViewGroup) findViewById(R.id.activity_randomizer);
         layout.addView(textView);
-
     }
 }
